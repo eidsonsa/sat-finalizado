@@ -4,7 +4,7 @@ Sat Solver feito em javascript por Eidson Sá (ejas), com base no modelo de Ferna
 
 Como executar:
 
-No prompt de comando, entre no diretório sat e realize as seguintes linhas de comando:
+No prompt de comando, entre no diretório sat-finalizado-master e realize as seguintes linhas de comando:
 
 	var x = require('sat')
 	x.solve('nomedoarquivo.cnf>')
